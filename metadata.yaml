@@ -1,11 +1,16 @@
 _repo: Shakespeare-s-Roman-Plays-and-Their-Background_69937
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69937-h/images/cover.jpg
 creator:
   author:
     agent_name: MacCallum, Mungo William
     gutenberg_agent_id: '55502'
     url: http://www.gutenberg.org/2009/agents/55502
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69937#Shakespeare-s-Roman-Plays-and-Their-Background
 gutenberg_issued: '2023-02-02'
 identifiers:
   gutenberg: '69937'
